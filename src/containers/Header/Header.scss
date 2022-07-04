@@ -1,0 +1,36 @@
+@use "../../styles/vars" as *;
+
+header {
+    background-color: $third-color;
+    width: 100%;
+    height: 6rem;
+    & > .header_container {
+        max-width: 1920px;
+        margin: 0 auto;
+        height: inherit;
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        & > img {
+            width: 24rem;
+            margin-left: 2rem;
+            cursor: pointer;
+        }
+    }
+}
+
+@media (min-width: 600px) {
+    header {
+        & > .header_container {
+            & > img {
+                margin-left: 3.2rem;
+            }
+        }
+    }
+}
+
+@media (min-width: 1000px) {
+    header {
+        height: 7.2rem;
+    }
+}
