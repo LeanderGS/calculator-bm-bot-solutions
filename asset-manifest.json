@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/calculator-bm-bot-solutions/static/css/main.17d2eb63.css",
+    "main.js": "/calculator-bm-bot-solutions/static/js/main.d222d451.js",
+    "static/media/montserrat-v24-latin-800.woff": "/calculator-bm-bot-solutions/static/media/montserrat-v24-latin-800.5b2b7f6cb5699be580d0.woff",
+    "static/media/montserrat-v24-latin-500.woff": "/calculator-bm-bot-solutions/static/media/montserrat-v24-latin-500.0bb3f0539557e4155cf2.woff",
+    "static/media/montserrat-v24-latin-300.woff": "/calculator-bm-bot-solutions/static/media/montserrat-v24-latin-300.3b12368dc952e0d3a59b.woff",
+    "static/media/montserrat-v24-latin-800.woff2": "/calculator-bm-bot-solutions/static/media/montserrat-v24-latin-800.0bddef6603e616a00e3b.woff2",
+    "static/media/montserrat-v24-latin-500.woff2": "/calculator-bm-bot-solutions/static/media/montserrat-v24-latin-500.f41a91ec0ef285c804ab.woff2",
+    "static/media/montserrat-v24-latin-300.woff2": "/calculator-bm-bot-solutions/static/media/montserrat-v24-latin-300.9d9b4145531fe613a73f.woff2",
+    "static/media/logo-calculator-bm-bot-s.svg": "/calculator-bm-bot-solutions/static/media/logo-calculator-bm-bot-s.fadf11f2ea2ec0dd495bad58e74ca299.svg",
+    "index.html": "/calculator-bm-bot-solutions/index.html",
+    "main.17d2eb63.css.map": "/calculator-bm-bot-solutions/static/css/main.17d2eb63.css.map",
+    "main.d222d451.js.map": "/calculator-bm-bot-solutions/static/js/main.d222d451.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17d2eb63.css",
+    "static/js/main.d222d451.js"
+  ]
+}
